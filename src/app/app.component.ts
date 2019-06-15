@@ -7,11 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'LifecycleHooks-app';
-
-  constructor() {
-    console.log('Razvan');
-  }
-
-
 }
 
